@@ -1,6 +1,6 @@
 <!--- SPDX-License-Identifier: Apache-2.0  -->
 <!-- <img src="smoothe-icon.png" width=128/>  -->
-<img src="smoothe-icon.png" width="128"/> SmoothE: Differentiable E-Graph Extraction
+<img src="smoothe-icon.png" width="60"/> SmoothE: Differentiable E-Graph Extraction
 ==============================================================================
 
 ## 📙 Overview
